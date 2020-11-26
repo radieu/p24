@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T23:28:46.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="q-Jkw3yK0ZPw2uSgiGjA" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T23:30:49.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="NnvUvbwpzetrtxpHLBGn" version="13.10.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-58" value="&lt;b&gt;Tysiąc innych typów informacji, które mogą trafić do naszej organizacji&amp;nbsp;&lt;/b&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="47.5" y="400" width="730" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-62" value="&lt;b&gt;Nowe informacje trafiają do rejestrów wejściowych.&lt;br&gt;Zgłoszenia i dokumenty wprowadzane są automatycznie lub ręcznie.&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-62" value="&lt;b&gt;Nowe informacje trafiają do rejestrów wejściowych.&lt;/b&gt;&lt;br&gt;Zgłoszenia i dokumenty wprowadzane są automatycznie lub ręcznie." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49" y="670" width="730" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-63" value="Telefony przychodzące" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
