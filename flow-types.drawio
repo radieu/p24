@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T22:54:24.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="RNXCPPYTEMxm0UhGTV66" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T23:28:46.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="q-Jkw3yK0ZPw2uSgiGjA" version="13.10.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
           <mxGeometry x="58" y="320" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-50" value="Zgłoszenia serwisowe" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="320" width="80" height="54" as="geometry" />
+          <mxGeometry x="158" y="320" width="82" height="54" as="geometry" />
         </mxCell>
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-51" value="Incydenty RODO" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="268" y="320" width="80" height="55" as="geometry" />
@@ -149,7 +149,7 @@
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-58" value="&lt;b&gt;Tysiąc innych typów informacji, które mogą trafić do naszej organizacji&amp;nbsp;&lt;/b&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="47.5" y="400" width="730" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-62" value="&lt;b&gt;Nowe informacje wpadają w w rejestry informacji wejściowych prowadzone automatycznie bądź sekretariat.&lt;br&gt;Dla wybranych zgłoszeń i rejestracji automatycznie lub ręcznie zakładane są w rejestrach i ewidencjach rzeczowych.&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-62" value="&lt;b&gt;Nowe informacje trafiają do rejestrów wejściowych.&lt;br&gt;Zgłoszenia i dokumenty wprowadzane są automatycznie lub ręcznie.&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49" y="670" width="730" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-63" value="Telefony przychodzące" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -237,16 +237,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-80" value="Rejestr odebranych telefonów" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-80" value="&lt;b&gt;Rejestr odebranych telefonów&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="53" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-82" value="Rejestr&lt;br&gt;korespondencji wejściowej" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-82" value="&lt;b&gt;Rejestr&lt;br&gt;korespondencji wejściowej&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="209" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-84" value="Firmowy rejestr zgłoszeń (ticket system)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-84" value="&lt;b&gt;Firmowy rejestr zgłoszeń (ticket system)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="359" y="720" width="430" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-85" value="&lt;b&gt;Rejestry rodzajowe spraw prowadzone w działach organizacji - przykłady zakładamy tyle rejestrów ile jest potrzebnych&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-85" value="&lt;b&gt;Rejestry rodzajowe spraw prowadzone w działach organizacji - zakładamy tyle rejestrów ile jest potrzebnych&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="9" y="830" width="810" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JC0EZ0rCJ2nyQJaUhhLa-86" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=38.82183908045977;endSize=6.05;width=25;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
